@@ -1,0 +1,9 @@
+node_modules
+cypress/videos
+cypress/screenshots
+cypress/downloads
+cypress/plugins
+cypress/reports
+cypress/logs
+cypress/downloads
+cypress/screenshots
